@@ -9,7 +9,7 @@
 <h3 align="center">I combine technical rigor with an eye for ethical nuance to identify what others miss, and build data-driven solutions tailored to each person's unique needs.</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="700" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="700" height="400" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHNxYzh5bThzbXdyYWVlMDZ3aXprdnRqZGY3dmZodXo3anJreHB4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif">
 </a>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
@@ -22,7 +22,7 @@
 
 - 🌱 You can find some of my machine learning projects <a href="https://github.com/jacklchang/machine-learning-work">here</a>.
 
-- 📝 I regularly write articles on [https://jacklucaschang.substack.com/](https://jacklucaschang.substack.com/).
+- 📝 I write weekly articles on [https://jacklucaschang.substack.com/](https://jacklucaschang.substack.com/).
 
 - 💬 Ask me about **AI Guardrails & Red Teaming**.
 
