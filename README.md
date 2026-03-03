@@ -2,11 +2,11 @@
 
 <p align="center">
 	<a href="https://github.com/jacklchang">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer;Machine+Learniing+Engineer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learniing+Engineer;Data+Engineer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
-<h3 align="center">I combine technical rigor with an eye for ethical nuance to identify what others miss, and build data-driven solutions tailored to each person's unique needs.</h3>
+<h3 align="center">I bridge technical, policy, and human perspectives to uncover real-world AI failures and turn them into actionable insights that drive better decisions.</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="700" height="400" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHNxYzh5bThzbXdyYWVlMDZ3aXprdnRqZGY3dmZodXo3anJreHB4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif">
