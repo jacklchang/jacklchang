@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently working on [AI Companionship Guardrails](https://github.com/jacklchang/ai-companion-safety-assessment).
 
-- 🤝 I’m available for freelancing and contract roles.
+- 🤝 I’m available for AI/ML/DE roles.
 
 - 🌱 You can find some of my machine learning projects <a href="https://github.com/jacklchang/machine-learning-work">here</a>.
 
