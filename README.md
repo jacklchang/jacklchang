@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/jacklchang">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learniing+Engineer;Data+Engineer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Machine+Learning+Engineer;Data+Engineer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -47,4 +47,4 @@
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-Last Edited on: 02/27/2026
+Last Edited on: 04/06/2026
