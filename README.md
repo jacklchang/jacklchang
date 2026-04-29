@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **AI Guardrails & Evaluations**.
 
-- 📫 You can reach me through my [Linkedin](linkedin.com/in/jacklucaschang).
+- 📫 You can reach me through my [Linkedin](https://linkedin.com/in/jacklucaschang).
 
 <br/>
 
