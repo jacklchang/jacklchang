@@ -15,8 +15,10 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 - 🔭 I have a Masters in Data Science from UC Berkeley.
+  
+- 🏗️ I am currently working on building a [virtues benchmark](https://jacklchang.github.io/virtue-council-website/)
 
-- 🌱 I conducted a three-phase empirical research project on [AI Companionship Evaluations](https://github.com/jacklchang/ai-companion-safety-assessment).
+- 🌱 I conducted a three-phase empirical research project on [LLM induced psychosis](https://github.com/jacklchang/ai-companion-safety-assessment).
 
 - 🤝 I’m available for AI/ML/DE roles.
 
@@ -28,7 +30,6 @@
 
 - 📫 You can reach me through my [Linkedin](linkedin.com/in/jacklucaschang).
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>.
 <br/>
 
 # 💻 Tech Stack:
@@ -47,4 +48,4 @@
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-Last Edited on: 04/19/2026
+Last Edited on: 04/28/2026
