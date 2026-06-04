@@ -20,13 +20,13 @@
 
 - 🌱 I conducted a three-phase empirical research project on [LLM induced psychosis](https://github.com/jacklchang/ai-companion-safety-assessment).
 
-- 🤝 I’m available for AI/ML/DE roles.
+- 🤝 I’m available for AI/ML roles.
 
 - 🌱 You can find some of my machine learning projects <a href="https://github.com/jacklchang/machine-learning-work">here</a>.
 
 - 📝 I write weekly articles on [https://jacklucaschang.substack.com/](https://jacklucaschang.substack.com/).
 
-- 💬 Ask me about **AI Guardrails & Evaluations**.
+- 💬 Ask me about **AI Evaluations**.
 
 - 📫 You can reach me through my [Linkedin](https://linkedin.com/in/jacklucaschang).
 
