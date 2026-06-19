@@ -12,7 +12,7 @@
   <img align="right" top="700" height="400" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHNxYzh5bThzbXdyYWVlMDZ3aXprdnRqZGY3dmZodXo3anJreHB4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif">
 </a>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="30px" width="30px">&nbsp;***About me***
 
 - 🔭 I have a Masters in Data Science from UC Berkeley.
   
