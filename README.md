@@ -10,19 +10,21 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 🔭 I have a Masters in Data Science from UC Berkeley.
+- 🔭 I have a Bachelors in Philosophy and Informatics from University of Washington, and a Masters in Data Science from UC Berkeley.
+
+- 🏗️ I am currently working on a virtual museum to explore catastrophic and protopia futures with AI. 
   
-- 🏗️ I am currently working on building a [virtues benchmark](https://jacklchang.github.io/virtue-council-website/)
+- 🌱 I built a [behavioral benchmark](https://jacklchang.github.io/virtue-council-website/) for language models grounded in Aristotelian virtue ethics.
+  
+- 💻 I built its [companion chat tool](https://virtue-council.vercel.app/) — bring your own key and watch each model reply get scored in real time across seven virtues on a deficiency–mean–excess scale, turning a model's character into something measurable and visible.
 
 - 🌱 I conducted a three-phase empirical research project on [LLM induced psychosis](https://github.com/jacklchang/ai-companion-safety-assessment).
 
 - 🤝 I’m available for AI/ML roles.
 
-- 🌱 You can find some of my machine learning projects <a href="https://github.com/jacklchang/machine-learning-work">here</a>.
-
 - 📝 I write weekly articles on [https://jacklucaschang.substack.com/](https://jacklucaschang.substack.com/).
 
-- 💬 Ask me about **AI Evaluations**.
+- 💬 Ask me about **AI Evaluations, Alignment, Ethics**.
 
 - 📫 You can reach me through my [Linkedin](https://linkedin.com/in/jacklucaschang).
 
