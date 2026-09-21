@@ -11,7 +11,7 @@
   
 - 🔬 I ran a three-phase empirical study on [AI companion safety and emotional manipulation](https://github.com/jacklchang/ai-companion-safety-assessment).
 
-- 📖 Co-author of a forthcoming MIT Press book on technology and human choice. Reached the final rounds of MATS and the Frame fellowship in 2026.
+- 📖 Co-author of a forthcoming MIT Press book on technology and human choice. Reached the second rounds of MATS and the Frame fellowship in 2026.
 
 - 🎓 MS Data Science (UC Berkeley); BA Philosophy & Informatics (UW).
 
