@@ -3,11 +3,11 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 🧪 I run [B-Side Labs](bsidelabs.ai), building black-box evaluations of AI persona instability: when models abandon correct positions, safety commitments, or their intended character under social and authority pressure.
+- 🧪 I run [B-Side Labs](https://bsidelabs.ai), building black-box evaluations of AI persona instability: when models abandon correct positions, safety commitments, or their intended character under social and authority pressure.
 
 - 🌱 I built the [Virtue Council benchmark](https://github.com/bsidelabs/virtue-council-benchmark) — a courage/non-sycophancy eval across four frontier models with stubbornness controls, plus a documented negative result on multi-agent virtue deliberation. 
   
-- 💻 Try [Virtue Council](virtuecouncil.bsidelabs.ai) — chat with Claude while every reply is scored live across seven Aristotelian virtues on a deficiency–mean–excess axis.
+- 💻 Try [Virtue Council](https://virtuecouncil.bsidelabs.ai) — chat with Claude while every reply is scored live across seven Aristotelian virtues on a deficiency–mean–excess axis.
   
 - 🔬 I ran a three-phase empirical study on [AI companion safety and emotional manipulation](https://github.com/jacklchang/ai-companion-safety-assessment).
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **AI Evaluations, Alignment, Ethics**.
 
-- 📫 Reach me: [Linkedin](https://linkedin.com/in/jacklucaschang) or [jack@bsidelabs.ai](jack@bsidelabs.ai)
+- 📫 Reach me: [Linkedin](https://linkedin.com/in/jacklucaschang) or jack@bsidelabs.ai
 
 <br/>
 
