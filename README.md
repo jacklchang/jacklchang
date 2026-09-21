@@ -3,7 +3,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 🧪 I run B-Side Labs, building black-box evaluations of AI persona instability: when models abandon correct positions, safety commitments, or their intended character under social and authority pressure.
+- 🧪 I run [B-Side Labs](bsidelabs.ai), building black-box evaluations of AI persona instability: when models abandon correct positions, safety commitments, or their intended character under social and authority pressure.
 
 - 🌱 I built the [Virtue Council benchmark](https://github.com/bsidelabs/virtue-council-benchmark) — a courage/non-sycophancy eval across four frontier models with stubbornness controls, plus a documented negative result on multi-agent virtue deliberation. 
   
