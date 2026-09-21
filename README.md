@@ -1,32 +1,25 @@
 <h1 align="center">Hi 👋, I'm Jack Lucas Chang</h1>
-
-<p align="center">
-	<a href="https://github.com/jacklchang">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Machine+Learning+Engineer;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
-
-<h3 align="center">I'm an alignment researcher working on training AI to have good character traits, starting with the question of how to define and measure them.</h3>
+<h3 align="center">Founder of B-Side Labs — independent research on AI character stability under pressure.</h3>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 🔭 I have a Bachelors in Philosophy and Informatics from University of Washington, and a Masters in Data Science from UC Berkeley.
+- 🧪 I run B-Side Labs, building black-box evaluations of AI persona instability: when models abandon correct positions, safety commitments, or their intended character under social and authority pressure.
 
-- 🏗️ I am currently working on a virtual museum to explore catastrophic and protopia futures with AI. 
+- 🌱 I built the [Virtue Council benchmark](https://github.com/bsidelabs/virtue-council-benchmark) — a courage/non-sycophancy eval across four frontier models with stubbornness controls, plus a documented negative result on multi-agent virtue deliberation. 
   
-- 🌱 I built a [behavioral benchmark](https://jacklchang.github.io/virtue-council-website/) for language models grounded in Aristotelian virtue ethics.
+- 💻 Try [Virtue Council](virtuecouncil.bsidelabs.ai) — chat with Claude while every reply is scored live across seven Aristotelian virtues on a deficiency–mean–excess axis.
   
-- 💻 I built its [companion chat tool](https://virtue-council.vercel.app/) — bring your own key and watch each model reply get scored in real time across seven virtues on a deficiency–mean–excess scale, turning a model's character into something measurable and visible.
+- 🔬 I ran a three-phase empirical study on [AI companion safety and emotional manipulation](https://github.com/jacklchang/ai-companion-safety-assessment).
 
-- 🌱 I conducted a three-phase empirical research project on [LLM induced psychosis](https://github.com/jacklchang/ai-companion-safety-assessment).
+- 📖 Co-author of a forthcoming MIT Press book on technology and human choice. Reached the final rounds of MATS and the Frame fellowship in 2026.
 
-- 🤝 I’m available for AI/ML roles.
+- 🎓 MS Data Science (UC Berkeley); BA Philosophy & Informatics (UW).
 
-- 📝 I write weekly articles on [https://jacklucaschang.substack.com/](https://jacklucaschang.substack.com/).
+- 📝 I write weekly articles on [https://jacklucaschang.substack.com/](https://jacklucaschang.substack.com/) | 🤝 Open to research collaborations and partnerships.
 
 - 💬 Ask me about **AI Evaluations, Alignment, Ethics**.
 
-- 📫 You can reach me through my [Linkedin](https://linkedin.com/in/jacklucaschang).
+- 📫 Reach me: [Linkedin](https://linkedin.com/in/jacklucaschang) or [jack@bsidelabs.ai](jack@bsidelabs.ai)
 
 <br/>
 
@@ -46,4 +39,4 @@
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-Last Edited on: 08/02/2026
+Last Edited on: 09/21/2026
